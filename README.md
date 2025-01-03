@@ -4,14 +4,10 @@ codes for publications and experiments related to B4B WP2.
 
 The structure of the repository is:
 
------ root directory  
-      |  
-      |--- continuous flexibility   
-      |  
-      |--- binary flexibility  
-      |    |  
-      |    |--- theoretical works  
-      |    |  
-      |    |--- experimental works  
-      |  
-      |--- pulse experiment  
+>>>>>>> root directory
+>>>>>>>
+>>>>>>>>>>continuous flexibility
+>>>>>>>>>>>>>>binary flexibility
+>>>>>>>>>>>>>>>>>>theoretical works
+>>>>>>>>>>>>>>>>>>experimental works
+>>>>>>>>>>pulse experiment  
