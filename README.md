@@ -7,7 +7,7 @@ The structure of the repository is:
 >>>>>>> root directory
 >>>>>>>
 >>>>>>>>>>continuous flexibility
->>>>>>>>>>>>>>binary flexibility
+>>>>>>>>>>binary flexibility
 >>>>>>>>>>>>>>>>>>theoretical works
 >>>>>>>>>>>>>>>>>>experimental works  
 >>>>>>>>>>pulse experiment  
